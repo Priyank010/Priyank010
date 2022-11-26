@@ -22,6 +22,6 @@
 ***
 
 <div>  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Priyank010&show_icons=true&hide_border=true&icon_color=5CFF33&theme=dark">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyank010&theme=dark&hide_border=true">
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Priyank010&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyank010&theme=gotham&hide_border=true">
 </div>
